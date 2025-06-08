@@ -1,0 +1,8 @@
+CIFAR-10 CNN Classifier Model Results:
+--------------------------------------
+Best Epoch:                58
+Best Validation Accuracy:  81.89%
+Final Training Accuracy:   ~81.7%
+Overfitting Signs:         No sign of overfitting
+Underfitting Possibility:  Slight signs of underfitting
+Learning Rate Range:       2.0e-4 → 1.56e-5
